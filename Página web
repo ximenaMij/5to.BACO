@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <nav>
+      <div class="nav-wrapper">
+        <a href="#" class="brand-logo"> <img src = "ImagenesParaVS/Logo.png" height ="55px" width= "55px" ></a>
+        <ul id="nav-mobile" class="right hide-on-med-and-down">
+          <li><a href="sass.html">Ofertas</a></li>
+          <li><a href="badges.html">Productos</a></li>
+          <li><a href="collapsible.html">Pick Up</a></li>
+        </ul>
+      </div>
+    </nav>
+
+  </head>
+  <style>
+    h1{
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      font-size: medium;
+      background-color: azure;
+    }
+    h2{
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      font-size: x-large;
+    }
+  </style>
+  
+
+    <div align = "center">
+    <div class="card-panel teal lighten-2"><h2>Comercio en línea - Variedad de productos orgánicos</h2></div>
+    </div>
+    <hr>
+    <br>
+    <body>
+      <div class="container">
+        <div align = "center">
+          <table>
+            <tr>
+              <td>
+                <div align = "center">
+                  <h1>Puedes comprar todos los productos orgánicos que quieras.</h1>
+                <img src = "ImagenesParaVS/Verduritas.png" height = "100px" width = "100px">
+              </div>
+              </td>
+            </tr>
+          </table>
+          <table>
+            <tr>
+              <td>
+                <div align = "center">
+                  <h1>Si tu compra es mayor a Q.200.00, la casa invita un café.</h1>
+                <img src = "ImagenesParaVS/Café.png" height = "100px" width = "100px">
+              </div>
+              </td>
+            </tr>
+          </table>
+          <table>
+            <tr>
+              <td>
+                <div align = "center">
+                  <h1>Contamos con ofertas en productos seleccionados.</h1>
+                <img src = "ImagenesParaVS/Canasta.png" height = "100px" width = "100px">
+              </div>
+              </td>
+            </tr>
+          </table>
+          <table>
+            <tr>
+              <td>
+                <div align = "center">
+                  <h1>Les ofrecemos a los clientes nuestro servicio a domicilio.</h1>
+                <img src = "ImagenesParaVS/Local.png" height = "100px" width = "100px">
+              </div>
+              </td>
+            </tr>
+          </table>
+          <table>
+            <tr>
+              <td>
+                <div align = "center">
+                  <h1>Puedes pasar a recoger tus compras en el área Pick-up.</h1>
+                <img src = "ImagenesParaVS/Pick up.png" height = "100px" width = "100px">
+              </div>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </body>
+
+
+
+    <footer class="page-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col l6 s12">
+            <h5 class="white-text">Visitanos!</h5>
+            <p class="grey-text text-lighten-4">Ven a conocernos a nuestras cedes.</p>
+          </div>
+          <div class="col l4 offset-l2 s12">
+            <h5 class="white-text">Direcciones</h5>
+            <ul>
+              <li><a class="grey-text text-lighten-3" href="#!">Carr. Condado Concepcion, Cdad. de Guatemala</a></li>
+              <li><a class="grey-text text-lighten-3" href="#!">15, Blvr. Rafael Landivar 10-05</a></li>
+              <li><a class="grey-text text-lighten-3" href="#!">4-32 zona 11, Paseo Miraflores, Guatemala</a></li>
+              <li><a class="grey-text text-lighten-3" href="#!">01010, 4A Avenida 12-59, Cdad. de Guatemala</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="footer-copyright">
+        <div class="container">
+        © 2022 Copyright Text
+        <a class="grey-text text-lighten-4 right" href="#!">Más información</a>
+        </div>
+      </div>
+    </footer>
+    
+    <script type="text/javascript" src="js/materialize.min.js"></script>
+  
+</html>
